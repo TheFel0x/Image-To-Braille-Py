@@ -31,3 +31,6 @@ optional arguments:
 ## Requirements
 * python3
 * [pillow](http://python-pillow.org/)
+
+## todo
+* fix color
