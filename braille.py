@@ -132,4 +132,4 @@ if __name__=='__main__':
             break
 
     for u in convert(args.file,doColor=not args.nocolor, renderIRC=args.irc, cutoff=args.c, size=args.s, invert=args.invert, alphaColor=alphaColor):
-        print(u.encode('utf-8'))
+        print(u)
